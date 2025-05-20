@@ -76,6 +76,7 @@ By the end of this course, students and educators will be able to:
 
 - Clone or download the course repository.
 - Follow the lesson modules in order.
+- Use the powerpoints from python 4 everybody (py4e.com) created by the Great Charles Severance.
 - Complete exercises and mini-challenges after each topic.
 - Apply your knowledge in each project section.
 
