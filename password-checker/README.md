@@ -1,10 +1,32 @@
-# password-checker
+# 🔐 Password Strength Checker
 
-In this part of the course, we are going to focus on using external modules/libraries that contain methods created by other developers. We will use a combination of our knowledge of expressions, conditionals, loops, functions and strings to create programs that evaluate password strength. 
+Welcome to the **Password Strength Checker** module of the course!
 
-## exercises
-In exercise 1, we will take user input and then based on our password criteria will evaluate and tell the user how strong their password is. 
+In this part of the course, you'll expand your Python skills by working with **external modules and libraries**—tools built by other developers to make your coding life easier.
 
-In exercise 2, we will build upon what we have done in exercise 1 and ask for a username and password, as well as give the user the option to hide or show their password as they type.
+You'll apply your understanding of:
+- **Expressions**
+- **Conditionals**
+- **Loops**
+- **Functions**
+- **Strings**
 
-Finally, in exercise 3 we will actually go back to our old code in counter2.py and try to break it! Trying to and understanding how to break code can be good practice and will also help us better analyze our programs and how to write more secure and robust code.
+To create programs that **evaluate the strength of a user's password** and **reinforce secure coding practices**.
+
+---
+
+## 📘 What You'll Do
+
+This module is broken into three hands-on exercises:
+
+### ✅ Exercise 1: Basic Password Strength Evaluator  
+You'll build a simple program that:
+- Takes user input for a password
+- Evaluates the password based on basic strength criteria (length, character variety, etc.)
+- Gives the user feedback about how strong or weak their password is
+
+### ✅ Exercise 2: Username & Password Entry with Visibility Toggle  
+Building on Exercise 1, you'll:
+- Ask the user for both a **username** and **password**
+- Give the user the option to **show or hide** their password as they type (e.g., using asterisks or real-time toggling)
+- Reinforce the importance of
